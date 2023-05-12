@@ -157,7 +157,7 @@ public class RegisterActivity extends AppCompatActivity {
 
                                 try {
                                 final String senderEmail="noreply.timfinalexammoprog@gmail.com";
-                                final String senderPassword="voinaudvrlxrlzgf";
+                                final String senderPassword="##############[prevent leaked]";
 
                                 Properties props = System.getProperties();
                                 props.put("mail.smtp.auth", "true");
